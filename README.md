@@ -1,5 +1,5 @@
 # Supermarket-Dashboard
-![Supermarket Dashboard](image.png)
+![Supermarket Dashboard](dashboard.png)
 
 # Introduction
 This is a project I made using the Supermarket Sales dataset on Kaggle to create an interactive excel dashboard. I wanted to get better with Excel’s functionalities, including Pivot Tables, Charts, and key shortcuts, 
